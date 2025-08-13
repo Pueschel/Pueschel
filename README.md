@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pueschel
-- 👀 I’m interested in Chemistry, Physics, Education, Programming
-- 🌱 I’m currently learning to teach Information Science
+- 👀 I’m interested in Chemistry, Physics, Education, Coding
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me: Via Email
 
